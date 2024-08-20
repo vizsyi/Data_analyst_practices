@@ -1,0 +1,17 @@
+# dependencies
+venv
+
+# Data Source
+data
+
+# Compiled source
+
+# images
+img
+
+# secrets
+.env
+secret.txt
+
+# misc
+packages_for_lambda
