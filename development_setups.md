@@ -7,4 +7,5 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scoppe CurrentUser
 
 pip list
 
-
+ ## xlwings
+ pip install xlwings
